@@ -79,8 +79,7 @@
 <h3><img src="https://api.iconify.design/lucide/bar-chart-3.svg?color=%236c5ce7&width=22" height="20" align="center" />&nbsp; The stats</h3>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ErwanHeschung&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErwanHeschung&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top languages">
+  <img src="./github-metrics.svg" alt="GitHub metrics">
 </p>
 
 <hr>
