@@ -2,9 +2,9 @@
 
 <p align="center">
   <b>Fullstack Software Engineer from France</b><br>
-  Soon to graduate from Polytech Nice Sophia with two years of apprenticeship building Angular and Spring Boot apps at Avisto.<br>
+  Graduated from Polytech Nice Sophia after two years of apprenticeship building Angular and Spring Boot apps at Avisto.<br>
   I love clean frontend architecture, and I dive low level with Rust when a tool needs to fly.<br>
-  <sub>This profile is my playground: exploratory projects, school stuff, and a healthy bit of chaos.</sub>
+  <sub>This profile is my playground: exploratory projects, side experiments, and a healthy bit of chaos.</sub>
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 <hr>
 
-<h3><img src="https://api.iconify.design/lucide/rocket.svg?color=%236c5ce7&width=22" height="20" style="vertical-align: middle" />&nbsp; What I've been building here</h3>
+<h3><img src="https://api.iconify.design/lucide/rocket.svg?color=%236c5ce7&width=22" height="20" style="vertical-align: sub" />&nbsp; What I've been building here</h3>
 
 <ul>
   <li><b><a href="https://github.com/ErwanHeschung/SSHWeaver">SSHWeaver</a></b> &nbsp;A modern, fast and secure SSH / SFTP desktop client. <sub>Tauri, Rust, TypeScript</sub></li>
@@ -28,7 +28,7 @@
 
 <hr>
 
-<h3><img src="https://api.iconify.design/lucide/layers.svg?color=%236c5ce7&width=22" height="20" style="vertical-align: middle" />&nbsp; My stack</h3>
+<h3><img src="https://api.iconify.design/lucide/layers.svg?color=%236c5ce7&width=22" height="20" style="vertical-align: sub" />&nbsp; My stack</h3>
 
 <p><b>Frontend</b><br>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular">
@@ -68,7 +68,7 @@
 
 <hr>
 
-<h3><img src="https://api.iconify.design/lucide/bar-chart-3.svg?color=%236c5ce7&width=22" height="20" style="vertical-align: middle" />&nbsp; The stats</h3>
+<h3><img src="https://api.iconify.design/lucide/bar-chart-3.svg?color=%236c5ce7&width=22" height="20" style="vertical-align: sub" />&nbsp; The stats</h3>
 
 <p align="center">
   <img src="./github-metrics.svg" alt="GitHub metrics">
