@@ -16,27 +16,19 @@
 
 <hr>
 
-<h3><img src="https://api.iconify.design/lucide/briefcase.svg?color=%236c5ce7&width=22" height="20" align="center" />&nbsp; Open to work &amp; serious projects</h3>
-
-<p>
-  Available from <b>September 2026</b> for a full time position (CDI), based near Sophia Antipolis. The repos here are things I build to explore and have fun with. If you have real work in mind or want to collaborate on something serious, reach me through my website <a href="https://heschungerwan.dev"><b>heschungerwan.dev</b></a> or on <a href="https://www.linkedin.com/in/erwan-heschung"><b>LinkedIn</b></a>.
-</p>
-
-<hr>
-
-<h3><img src="https://api.iconify.design/lucide/rocket.svg?color=%236c5ce7&width=22" height="20" align="center" />&nbsp; What I've been building here</h3>
+<h3><img src="https://api.iconify.design/lucide/rocket.svg?color=%236c5ce7&width=22" height="20" style="vertical-align: middle" />&nbsp; What I've been building here</h3>
 
 <ul>
   <li><b><a href="https://github.com/ErwanHeschung/SSHWeaver">SSHWeaver</a></b> &nbsp;A modern, fast and secure SSH / SFTP desktop client. <sub>Tauri, Rust, TypeScript</sub></li>
   <li><b><a href="https://github.com/ErwanHeschung/BetTerm">BetTerm</a></b> &nbsp;GPU accelerated Windows terminal with ConPTY, wgpu, per pixel transparency, acrylic blur and an animated RGB border. <sub>Rust, wgpu</sub></li>
-  <li><b><a href="https://github.com/ErwanHeschung/Naka">Naka</a></b> &nbsp;Voice assistant for the Raspberry Pi with an on device wake word plus Gemini Live for speech and reasoning. <sub>Python, Gemini</sub></li>
+  <li><b><a href="https://github.com/ErwanHeschung/NakaV2">Naka</a></b> &nbsp;Voice assistant for the Raspberry Pi with an on device wake word plus Gemini Live for speech and reasoning. <sub>Python, Gemini</sub></li>
   <li><b><a href="https://github.com/ErwanHeschung/WatESez">WatESez</a></b> &nbsp;Extracts lyrics from any audio using vocal isolation, speech to text and acoustic fingerprinting. <sub>Python</sub></li>
   <li><b><a href="https://github.com/ErwanHeschung/ngx-crafter">ngx-crafter</a></b> &nbsp;A CLI that scaffolds Angular projects with sane structure and essential packages. <sub>TypeScript, Angular</sub></li>
 </ul>
 
 <hr>
 
-<h3><img src="https://api.iconify.design/lucide/layers.svg?color=%236c5ce7&width=22" height="20" align="center" />&nbsp; My stack</h3>
+<h3><img src="https://api.iconify.design/lucide/layers.svg?color=%236c5ce7&width=22" height="20" style="vertical-align: middle" />&nbsp; My stack</h3>
 
 <p><b>Frontend</b><br>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular">
@@ -76,7 +68,7 @@
 
 <hr>
 
-<h3><img src="https://api.iconify.design/lucide/bar-chart-3.svg?color=%236c5ce7&width=22" height="20" align="center" />&nbsp; The stats</h3>
+<h3><img src="https://api.iconify.design/lucide/bar-chart-3.svg?color=%236c5ce7&width=22" height="20" style="vertical-align: middle" />&nbsp; The stats</h3>
 
 <p align="center">
   <img src="./github-metrics.svg" alt="GitHub metrics">
