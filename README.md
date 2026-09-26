@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Fullstack Software Engineer from France</b><br>
-  Graduated from Polytech Nice Sophia after two years of apprenticeship building Angular and Spring Boot apps at Avisto.<br>
+  Graduated from Polytech Nice Sophia after two years of apprenticeship.<br>
   I love clean frontend architecture, and I dive low level with Rust when a tool needs to fly.<br>
   <sub>This profile is my playground: exploratory projects, side experiments, and a healthy bit of chaos.</sub>
 </p>
