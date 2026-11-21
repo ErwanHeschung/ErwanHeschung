@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://heschungerwan.dev"><img src="https://img.shields.io/badge/Website-heschungerwan.dev-6c5ce7?style=for-the-badge&logo=firefox&logoColor=white" alt="Website"></a>
+  <a href="https://traum.team"><img src="https://img.shields.io/badge/Website-traum.team-6c5ce7?style=for-the-badge&logo=firefox&logoColor=white" alt="Website"></a>
   <a href="https://www.linkedin.com/in/erwan-heschung"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://github.com/ErwanHeschung?tab=followers"><img src="https://img.shields.io/github/followers/ErwanHeschung?style=for-the-badge&color=6c5ce7&labelColor=1a1a1a" alt="Followers"></a>
   <img src="https://komarev.com/ghpvc/?username=ErwanHeschung&style=for-the-badge&color=6c5ce7&label=PROFILE+VIEWS" alt="Profile views">
@@ -78,5 +78,5 @@
 
 <p align="center">
   <sub>Building things I'd actually use, one exploratory repo at a time.</sub><br>
-  <a href="https://heschungerwan.dev"><img src="https://api.iconify.design/lucide/globe.svg?color=%236c5ce7&width=16" height="14" align="center" />&nbsp;heschungerwan.dev</a>
+  <a href="https://traum.team"><img src="https://api.iconify.design/lucide/globe.svg?color=%236c5ce7&width=16" height="14" align="center" />&nbsp;traum.team</a>
 </p>
